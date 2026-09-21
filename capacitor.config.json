@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.welcomeapp",
+  "appName": "Welcome App",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
